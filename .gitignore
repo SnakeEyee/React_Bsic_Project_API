@@ -1,0 +1,5 @@
+.qodo
+.vscode
+node_modules
+.env
+app.db
